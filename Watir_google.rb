@@ -18,7 +18,7 @@ end
 puts delta = delta/n
 puts 'watir is done'
 puts'---------------------------'
-result = '- ' + delta.to_s + ' - watir '
+result = ' watir     -  ' + delta.to_s
 File.open('res.txt', 'a'){|f| f.puts(result)}
 
 #id="gbqfb"

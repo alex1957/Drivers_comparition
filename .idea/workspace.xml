@@ -12,11 +12,11 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Drivers comparition@Selenium_google.coverage" NAME="Selenium_google Coverage Results" MODIFIED="1389321880801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
-    <SUITE FILE_PATH="coverage/Drivers comparition@Mechanize_google.coverage" NAME="Mechanize_google Coverage Results" MODIFIED="1389321937228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
+    <SUITE FILE_PATH="coverage/Drivers comparition@Selenium_google.coverage" NAME="Selenium_google Coverage Results" MODIFIED="1389322640931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
+    <SUITE FILE_PATH="coverage/Drivers comparition@Mechanize_google.coverage" NAME="Mechanize_google Coverage Results" MODIFIED="1389322606738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
     <SUITE FILE_PATH="coverage/Drivers comparition@Phantom_google.coverage" NAME="Phantom_google Coverage Results" MODIFIED="1389321992761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
-    <SUITE FILE_PATH="coverage/Drivers comparition@Watir_google.coverage" NAME="Watir_google Coverage Results" MODIFIED="1389321907593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
-    <SUITE FILE_PATH="coverage/Drivers comparition@Capybara_google.coverage" NAME="Capybara_google Coverage Results" MODIFIED="1389321849980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
+    <SUITE FILE_PATH="coverage/Drivers comparition@Watir_google.coverage" NAME="Watir_google Coverage Results" MODIFIED="1389322614238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
+    <SUITE FILE_PATH="coverage/Drivers comparition@Capybara_google.coverage" NAME="Capybara_google Coverage Results" MODIFIED="1389322672665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Drivers comparition" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="Mechanize_google.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mechanize_google.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="3" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state line="20" column="25" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="Watir_google.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Watir_google.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="20" column="24" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="Selenium_google.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium_google.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="20" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="21" column="25" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -60,7 +60,7 @@
       <file leaf-file-name="res.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.16153847" vertical-offset="0" max-vertical-offset="650">
+            <state line="3" column="14" selection-start="104" selection-end="104" vertical-scroll-proportion="0.06923077" vertical-offset="0" max-vertical-offset="650">
               <folding />
             </state>
           </provider>
@@ -78,7 +78,7 @@
       <file leaf-file-name="Capybara_google.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capybara_google.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+            <state line="25" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -94,13 +94,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Selenium_google.rb" />
-        <option value="$PROJECT_DIR$/Watir_google.rb" />
-        <option value="$PROJECT_DIR$/Mechanize_google.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/res.txt" />
-        <option value="$PROJECT_DIR$/Capybara_google.rb" />
         <option value="$PROJECT_DIR$/Phantom_google.rb" />
+        <option value="$PROJECT_DIR$/Mechanize_google.rb" />
+        <option value="$PROJECT_DIR$/Watir_google.rb" />
+        <option value="$PROJECT_DIR$/Selenium_google.rb" />
+        <option value="$PROJECT_DIR$/Capybara_google.rb" />
+        <option value="$PROJECT_DIR$/res.txt" />
       </list>
     </option>
   </component>
@@ -162,7 +162,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.Phantom_google">
+  <component name="RunManager" selected="Ruby.Capybara_google">
     <configuration default="false" name="Mechanize_google" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Drivers comparition" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -401,11 +401,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.Phantom_google" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.Mechanize_google" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.Capybara_google" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.Selenium_google" />
         <item index="2" class="java.lang.String" itemvalue="Ruby.Watir_google" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.Selenium_google" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.Capybara_google" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.Mechanize_google" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.Phantom_google" />
       </list>
     </recent_temporary>
   </component>
@@ -772,34 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capybara_google.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium_google.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Watir_google.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mechanize_google.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="3" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phantom_google.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="1" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
@@ -807,9 +779,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mechanize_google.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="25" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Watir_google.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="24" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_google.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="25" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capybara_google.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.16153847" vertical-offset="0" max-vertical-offset="650">
+        <state line="3" column="14" selection-start="104" selection-end="104" vertical-scroll-proportion="0.06923077" vertical-offset="0" max-vertical-offset="650">
           <folding />
         </state>
       </provider>

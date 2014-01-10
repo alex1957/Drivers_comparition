@@ -19,5 +19,5 @@ end
 puts delta = delta/n
 puts  'Selenium is done'
 puts  '---------------------------'
- result = '- ' + delta.to_s + ' - selenium'
+ result = ' selenium  -  ' + delta.to_s
 File.open('res.txt', 'a'){|f| f.puts(result)}

@@ -23,7 +23,7 @@ end
 puts delta = delta/n
 puts  'Capybara is done'
 puts  '---------------------------'
-result = '- ' + delta.to_s + ' - capybara'
+result = ' capybara  -  ' + delta.to_s
 File.open('res.txt', 'a'){|f| f.puts(result)}
 
 

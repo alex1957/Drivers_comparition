@@ -18,6 +18,6 @@ end
 puts delta = delta/n
 puts  'Mechanize is done'
 puts  '---------------------------'
-result = '- ' + delta.to_s + ' - mechanize'
+result = ' mechanize -  ' + delta.to_s
 File.open('res.txt', 'a'){|f| f.puts(result)}
 
