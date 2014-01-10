@@ -11,6 +11,7 @@ browser.button(:id => 'gbqfb').click
 browser.title
 browser.span(:class=>'st').text
 
+
 browser.close
 finish = Time.now
 delta += (finish - start)

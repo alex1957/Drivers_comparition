@@ -1,17 +1,18 @@
 require 'mechanize'
+
 n=5
 delta = 0
 (1..n).each do
 start = Time.now
 agent = Mechanize.new
+agent.history.clear
+
 page = agent.get('http://google.com/')
-#pp page
 google_form = page.form('f')
-#pp google_form.field('q')
 google_form.q = 'capybara'
-#pp google_form.q
 page = agent.submit(google_form)
-page.title
+
+page.search("//*[@id='resultStats']").text
 finish = Time.now
   delta += (finish - start)
 end

@@ -1,14 +1,13 @@
 require 'selenium-webdriver'
 require 'capybara'
-#require 'capybara/poltergeist'
-#require 'poltergeist'
+
 n=5
 delta = 0
 (1..n).each do
 start = Time.now
 Capybara.run_server = false
 Capybara.app_host = 'http://google.com'
-#Capybara.javascript_driver =  :poltergeist
+
 driver = Capybara::Session.new(:selenium)
 driver.visit('/')
 driver.fill_in('gbqfq', :with => 'capybara')
